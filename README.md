@@ -1,4 +1,5 @@
 # Name of Project Here
+## Starting up
 
 To install:
 
@@ -37,7 +38,7 @@ pipenv run jupyter notebook
 | Basic mapping                       |         |         |       |
 
 
-## APIs
+### APIs
 | Notebook name                                      | English | Iranian | Video |
 |----------------------------------------------------|---------|---------|-------|
 | What is an API?                                    |         |         |       |
@@ -52,4 +53,11 @@ pipenv run jupyter notebook
 | Scraping 101: Static sites                        |         |         |       |
 | Scraping 201: Dynamic sites                       |         |         |       |
 | *Using Tabula to get tabular data from PDFs       |         |         |       |
+
+### NLP
+| Notebook name                   | English | Iranian | Video |
+|---------------------------------|---------|---------|-------|
+| Introduction to NLP with Python |         |         |       |
+| Text as data                    |         |         |       |
+
 
