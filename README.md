@@ -36,6 +36,8 @@ pipenv run jupyter notebook
 | Basic charts with matplotlib        |         |         |       |
 | Text and annotations for charts     |         |         |       |
 | Basic mapping                       |         |         |       |
+| Map projections                     |         |         |       |
+| Combining different geodata         |         |         |       |
 
 
 ### APIs
