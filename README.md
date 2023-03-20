@@ -55,9 +55,9 @@ pipenv run jupyter notebook
 | *Using Tabula to get tabular data from PDFs       |         |         |       |
 
 ### NLP
-| Notebook name                   | English | Iranian | Video |
-|---------------------------------|---------|---------|-------|
-| Introduction to NLP with Python |         |         |       |
-| Text as data                    |         |         |       |
+| Notebook name                   | English            | Iranian | Video |
+|---------------------------------|--------------------|---------|-------|
+| Introduction to NLP with Python | :white_check_mark: |         |       |
+| Text as data                    |                    |         |       |
 
 
