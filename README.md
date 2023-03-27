@@ -24,7 +24,7 @@ pipenv run jupyter notebook
 | Notebook name                       | English            | Iranian | Video |
 |-------------------------------------|--------------------|---------|-------|
 | Introduction to pandas              | :white_check_mark: |         |       |
-| Basics of statistics                | :gear:             |         |       |
+| Basics of statistics                | :white_check_mark: |         |       |
 | Working with time data              | :white_check_mark: |         |       |
 | Combining data from multiple tables |                    |         |       |
 | Intro to cleaning data              |                    |         |       |

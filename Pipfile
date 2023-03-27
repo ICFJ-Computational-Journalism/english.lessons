@@ -8,6 +8,7 @@ pandas = "*"
 jupyter = "*"
 numpy = "*"
 jdatetime = "*"
+matplotlib = "*"
 
 [dev-packages]
 
