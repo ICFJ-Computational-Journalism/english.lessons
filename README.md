@@ -24,7 +24,7 @@ pipenv run jupyter notebook
 | Notebook name                       | English            | Iranian | Video |
 |-------------------------------------|--------------------|---------|-------|
 | Introduction to pandas              | :white_check_mark: |         |       |
-| Basics of statistics                | :white_check_mark: |         |       |
+| Basics of statistics                | :gear:             |         |       |
 | Working with time data              | :white_check_mark: |         |       |
 | Combining data from multiple tables |                    |         |       |
 | Intro to cleaning data              |                    |         |       |
@@ -36,8 +36,6 @@ pipenv run jupyter notebook
 | Basic charts with matplotlib        |         |         |       |
 | Text and annotations for charts     |         |         |       |
 | Basic mapping                       |         |         |       |
-| Map projections                     |         |         |       |
-| Combining different geodata         |         |         |       |
 
 
 ### APIs
