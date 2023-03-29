@@ -9,6 +9,10 @@ jupyter = "*"
 numpy = "*"
 jdatetime = "*"
 matplotlib = "*"
+hazm = "*"
+spacy = "*"
+nltk = "*"
+gensim = "*"
 
 [dev-packages]
 
