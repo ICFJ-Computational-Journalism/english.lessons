@@ -23,4 +23,4 @@ jobs:
           pip install requests
 
       - name: Run scraping code and save to file
-        run: python action_example/scrape.py --output scraping/data.txt
+        run: python action_example/scrape.py --output action_example/data.txt
