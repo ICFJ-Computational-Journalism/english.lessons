@@ -2,3 +2,20 @@ name: Hourly Scraping
 on:
   schedule:
     - cron: '0 * * * *'
+env:
+  PYTHON_VERSION: 3.x
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v2
+
+  - name: Set up Python
+    uses: actions/setup-python@v2
+    with:
+      python-version: ${{ env.PYTHON_VERSION }}
+
+  - name: Install dependencies
+    run: |
+      pip install beautifulsoup4
+      pip install requests
+  - name: Run scraping code and save to file
+    run: python action_example/scrape.py --output scraping/data.txt
