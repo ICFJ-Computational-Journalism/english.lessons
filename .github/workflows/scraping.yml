@@ -1,0 +1,4 @@
+name: Hourly Scraping
+on:
+  schedule:
+    - cron: '0 * * * *'
