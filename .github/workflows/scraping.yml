@@ -2,7 +2,7 @@ name: Hourly Scraping
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/6 * * * *'
 
 jobs:
   scrape:
