@@ -13,7 +13,7 @@ if response.status_code == 200:
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Find the elements containing the desired data
-    data_elements = soup.find_all('h3', class_='cd__headline')
+    data_elements = soup.find_all('span', {'data-editable': 'headline'})
 
     # Process the data elements
     scraped_data = []
