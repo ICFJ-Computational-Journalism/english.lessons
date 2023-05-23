@@ -1,5 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
+import time
+
+# Generate a timestamp
+timestamp = time.strftime("%Y%m%d-%H%M%S", time.localtime())
 
 # URL of the CNN website section you want to scrape
 url = 'https://www.cnn.com/'
@@ -23,8 +27,9 @@ if response.status_code == 200:
         # Append the extracted data to the list
         scraped_data.append(data)
 
-    # Save the scraped data to a file (append mode)
-    with open('data.txt', 'a') as file:
+    # Save the scraped data to a timestamped file
+    filename = f"data_{timestamp}.txt"
+    with open(filename, 'w') as file:
         for data in scraped_data:
             file.write(data + '\n')
 
