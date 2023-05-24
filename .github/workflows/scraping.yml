@@ -21,9 +21,17 @@ jobs:
         run: |
           pip install beautifulsoup4
           pip install requests
-    
+
       - name: Set write permissions
         run: chmod -R +w action_example
 
       - name: Run scraping code and save to file
-        run: python action_example/scrape.py --output data.txt
+        run: python action_example/scrape.py
+
+      - name: Commit and push if it's necessary
+        run: |
+          git config --global user.name 'jwaldor'
+          git config --global user.email 'jacobwaldor@gmail.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m 'Automated update'
+          git push
