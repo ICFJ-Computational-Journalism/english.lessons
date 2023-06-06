@@ -15,6 +15,7 @@ nltk = "*"
 gensim = "*"
 python-telegram-bot = "*"
 selenium = "*"
+feedparser = "*"
 
 
 [dev-packages]
