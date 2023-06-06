@@ -16,7 +16,8 @@ gensim = "*"
 python-telegram-bot = "*"
 selenium = "*"
 feedparser = "*"
-
+scikit-learn="*"
+transformers="*"
 
 [dev-packages]
 
