@@ -18,6 +18,7 @@ selenium = "*"
 feedparser = "*"
 scikit-learn="*"
 transformers="*"
+torch="*"
 
 [dev-packages]
 
