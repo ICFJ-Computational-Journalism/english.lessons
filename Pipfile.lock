@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "59dc846352e8ad2f76e6e0c4c56ed16c5c36d5f531e3a289bdee0ec693bacf99"
+            "sha256": "3f449f85b672829fe0f116959744bca4e3e340b493a81192b82c689a34aa4426"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -130,6 +130,14 @@
                 "sha256:f7b6315d7b1ac5546bc0350f5f8d7cc064438d23db19a5c21aaa6ae7d93c1ab5"
             ],
             "version": "==0.7.9"
+        },
+        "branca": {
+            "hashes": [
+                "sha256:55949855214504c7583b71b9a03a84dce2e96a84027613bb53b42d04844ce24e",
+                "sha256:ae706fc7a88dd0296a58bb11c0cb3c6be358491a3b0abee08fe16b4db17814c0"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==0.6.0"
         },
         "catalogue": {
             "hashes": [
@@ -317,7 +325,7 @@
                 "sha256:a4bc13d623356b373c2c27c53dbd9c68cae5d526270bfa71f6c6fa69669c6b27",
                 "sha256:c1ca117dbce1fe20a5809dc96f01e1c2840f6dcc939b3ddbb1111bf330ba82df"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3' and python_version < '4'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3' and python_version < '4.0'",
             "version": "==0.7.2"
         },
         "confection": {
@@ -457,6 +465,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.9.4.post1"
+        },
+        "folium": {
+            "hashes": [
+                "sha256:8ec44697d18f5932e0fdaee8b19da98625de4d0e72cb30ef56f9479f18e11b9f",
+                "sha256:c894e2c029a8ca40e043a311978a895cefe32d746a94263f807dd7b6b2e9c679"
+            ],
+            "index": "pypi",
+            "version": "==0.14.0"
         },
         "fonttools": {
             "hashes": [
@@ -1575,7 +1591,7 @@
                 "sha256:b4c9ae193ad6d3e7add50944b86afa0d150bd821ab8ec21edb26d9a06b66f6a8",
                 "sha256:d5238825fe9a9340645fac3d75b287c08fbb99fb2b422477de781c9f5f09e019"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4'",
+            "markers": "python_version >= '3.6' and python_version < '4.0'",
             "version": "==6.3.0"
         },
         "sniffio": {
