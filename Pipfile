@@ -13,6 +13,7 @@ hazm = "*"
 spacy = "*"
 nltk = "*"
 gensim = "*"
+geopandas = "*"
 
 [dev-packages]
 
