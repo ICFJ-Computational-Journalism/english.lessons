@@ -1,0 +1,54 @@
+,company_name,sector,tax_revenue,number_of_employees,location,ceo_name,ceo_name_lower,ceo_name_lower_ordered
+0,S&F Co.,Electronics,$50000000    ,300,Tehran,John Smith,john smith,john smith
+1,Ahvazِ Oil Refining,Oil & Gas,$1500000000    ,5000,Ahvaz,Ali Khan,ali khan,ali khan
+2,Arzan Shargh Trading Ltd.,Trading,$3000000    ,20,Mashhad,Leila Hamidi,leila hamidi,hamidi leila
+3,Amin Pharmaceutical Company - شرکت امین دارویی,Pharma,$80000000    ,200,Tehran,Hamid Rezaei,hamid rezaei,hamid rezaei
+4,South-Pars Gas Field - میدان گازی جنوب پارس,Energy & Gas,$10000000000    ,2500,Asaluyeh,Ahmad Rahimi,ahmad rahimi,ahmad rahimi
+5,Raja Rail Transportation,Logistics,$30000000    ,150,Tehran,Mohammad Gharib,mohammad gharib,gharib mohammad
+6,بافتِ بزرگ,Textile,$5000000    ,100,Esfahan,Sara Jafari,sara jafari,jafari sara
+7,Re&Co,Services,$10000000    ,75,Tehran,Reza Mousavi,reza mousavi,mousavi reza
+8,Sadr Holding,Investment Holding,$2000000000    ,100,Tehran,Seyed Ahmad Hashemi,seyed ahmad hashemi,ahmad hashemi seyed
+9,Sepehr Sazeh,Construction,$50000000    ,500,Tehran,Ali Rezaei,ali rezaei,ali rezaei
+10,S@S Food Group,Food,$20000000    ,200,Shiraz,Saeed Azizian,saeed azizian,azizian saeed
+11,Sana Kish,Tourism & Hospitality,$5000000    ,50,Kish Island,Amir Abbas Khadem,amir abbas khadem,abbas amir khadem
+12,Sh. Chemical Company,Chemicals,$150000000    ,750,Tehran,Hassan Mirzaei,hassan mirzaei,hassan mirzaei
+13,Hammer & Nails,Construction,$25000000    ,150,Tehran,Bahram Nasr,bahram nasr,bahram nasr
+14,Nezam Din & Co.,Legal,$2000000    ,20,Tehran,Mohammad Hosseini,mohammad hosseini,hosseini mohammad
+15,Persian Gulf Steel Co.,Steel,$500000000    ,2000,Bandar Abbas,Abdollah Azimi,abdollah azimi,abdollah azimi
+16,Mahboubi & Sons,Agriculture,$10000000    ,50,Mashhad,Abbas Mahboubi,abbas mahboubi,abbas mahboubi
+17,Eshragh Glass Company,Glass,$15000000    ,200,Isfahan,Hossein Rahimi,hossein rahimi,hossein rahimi
+18,Arta Energy,Renewable Energy,$2500000    ,50,Tehran,Mohammad Mohammadi,mohammad mohammadi,mohammad mohammadi
+19,Zarrin Leather Industries,Leather,$7500000    ,75,Tabriz,Saeed Zarrin,saeed zarrin,saeed zarrin
+20,Tehran Pharmaceutical Industries,Pharma,$120000000    ,500,Tehran,Mehdi Nouri,mehdi nouri,mehdi nouri
+21,Shomal Power Plant,Energy,$50000000    ,200,Nowshahr,Ali Fazeli,ali fazeli,ali fazeli
+22,Nikan Insurance,Insurance,$8000000    ,50,Tehran,Ahmad Rahimi,ahmad rahimi,ahmad rahimi
+23,Noghrekar,Insurance,$30000000    ,300,Bandar Anzali,Mohammad Ghaderi,mohammad ghaderi,ghaderi mohammad
+24,Bambooshka Design,Graphic Design,$500000    ,5,Tehran,Mitra Alavi,mitra alavi,alavi mitra
+25,Hamyar Software,Software Development,$2500000    ,30,Mashhad,Reza Moradi,reza moradi,moradi reza
+26,S&F Co.,Electronics,$50000000    ,300,Tehran,SMITH JOHN,smith john,john smith
+27,ahvazِ oil refining,Oil & Gas,$1500000000    ,5000,Ahvaz,khan ali,khan ali,ali khan
+28,Arzan Shargh Trading Ltd.,Trading,$3000000    ,20,Mashhad,Hamidi Leila,hamidi leila,hamidi leila
+29,Amin Pharmaceutical,Pharma,$80000000    ,200,Tehran,Rezaei Hamid,rezaei hamid,hamid rezaei
+30,South-Pars Gas Field,Energy & Gas,$10000000000    ,2500,Asaluyeh,rahimi ahmad,rahimi ahmad,ahmad rahimi
+31,Raja Rail,Logistics,$30000000    ,150,Tehran,gharib mohammad,gharib mohammad,gharib mohammad
+32,بافتِ بزرگ,Textile,$5000000    ,100,Esfahan,Jafari Sara,jafari sara,jafari sara
+33,re&co,Services,$10000000    ,75,Tehran,mousavi reza,mousavi reza,mousavi reza
+34,Sadr,Investment,$2000000000    ,100,Tehran,Hashemi Seyed Ahmad,hashemi seyed ahmad,ahmad hashemi seyed
+35,sepehr sazeh,Construction,$50000000    ,500,Tehran,rezaei ali,rezaei ali,ali rezaei
+36,S@S Food Group,Food,$20000000    ,200,Shiraz,azizian saeed,azizian saeed,azizian saeed
+37,Sana Kish,Tourism & Hospitality,$5000000    ,50,Kish Island,khadem amiri abbas,khadem amiri abbas,abbas amiri khadem
+38,Sh. Chemical,Chemicals,$150000000    ,750,Tehran,mirzaei hassan,mirzaei hassan,hassan mirzaei
+39,Hammer & Nails,Construction,$25000000    ,150,Tehran,nasr bahram,nasr bahram,bahram nasr
+40,Nezam Din,Legal,$2000000    ,20,Tehran,hosseini mohammad,hosseini mohammad,hosseini mohammad
+41,Persian Gulf Steel,Steel,$500000000    ,2000,Bandar Abbas,azimi abdollah,azimi abdollah,abdollah azimi
+42,Mahboubi & Sons,Agriculture,$10000000    ,50,Mashhad,Mahboubi Abbas,mahboubi abbas,abbas mahboubi
+43,Eshragh Glass,Glass,$15000000    ,200,Isfahan,rahimi hossein,rahimi hossein,hossein rahimi
+44,arta energy,Renewable Energy,$2500000    ,50,Tehran,mohammadi mohammad,mohammadi mohammad,mohammad mohammadi
+45,Zarrin Leather,Leather,$7500000    ,75,Tabriz,zarrin saeed,zarrin saeed,saeed zarrin
+46,tehran pharmaceutical,Pharma,$120000000    ,500,Tehran,nouri mehdi,nouri mehdi,mehdi nouri
+47,Shomal Power,Energy,$50000000    ,200,Nowshahr,fazeli ali,fazeli ali,ali fazeli
+48,Nikan Insurance,Insurance,$8000000    ,50,Tehran,rahimi ahmad,rahimi ahmad,ahmad rahimi
+49,noghrekar,Insurance,$30000000    ,300,Bandar Anzali,ghaderi mohammad,ghaderi mohammad,ghaderi mohammad
+50,bambooshka design,Graphic Design,$500000    ,5,Tehran,alavi mitra,alavi mitra,alavi mitra
+51,hamyar software,Software Development,$2500000    ,30,Mashhad,moradi reza,moradi reza,moradi reza
+52,zar & sima,Architecture,$5000    ,1,Shiraz,mohammadi ali,mohammadi ali,ali mohammadi
