@@ -15,6 +15,7 @@ nltk = "*"
 gensim = "*"
 folium = "*"
 geopandas = "*"
+geoplot = "*"
 
 [dev-packages]
 
