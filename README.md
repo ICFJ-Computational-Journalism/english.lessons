@@ -15,6 +15,8 @@ For example, you need take the **Data analysis** module first. But then after th
 
 ### Lesson overview
 
+**0. Introduction** <-- _Start here!_
+
 **1. Data analysis**    
 &nbsp;&nbsp;1. Introduction to pandas    
 &nbsp;&nbsp;2. Basics of statistics    
