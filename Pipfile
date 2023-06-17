@@ -14,7 +14,7 @@ spacy = "*"
 nltk = "*"
 gensim = "*"
 folium = "*"
-geopandas = "*"
+geopandas = {version="==0.13.2"}
 geoplot = "*"
 python-telegram-bot = "*"
 selenium = "*"
@@ -22,6 +22,8 @@ feedparser = "*"
 scikit-learn="*"
 transformers="*"
 torch="*"
+cartopy = "*"
+pyproj= {version="==3.6.0"}
 
 [dev-packages]
 
