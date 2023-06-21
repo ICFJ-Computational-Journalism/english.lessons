@@ -13,9 +13,9 @@ hazm = "*"
 spacy = "*"
 nltk = "*"
 gensim = "*"
-folium = "*"
+folium = {version="==0.14.0"}
 geopandas = {version="==0.13.2"}
-geoplot = "*"
+geoplot = {version="==0.5.1"}
 python-telegram-bot = "*"
 selenium = "*"
 feedparser = "*"
