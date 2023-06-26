@@ -1,0 +1,3304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "arts",
+        "university_name": "University of Art (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4061426,
+          35.7033723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "arts",
+        "university_name": "Shiraz University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4939566,
+          29.6459205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "arts",
+        "university_name": "Tarbiat Modares University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3836853,
+          35.7234574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "arts",
+        "university_name": "Sooreh Art University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.369934,
+          35.7001831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "law",
+        "university_name": "Allame Tabataba’ee University (ATU)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2602984,
+          35.759486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "law",
+        "university_name": "Shahid Beheshti University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3959851,
+          35.7990165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Ahvaz Jondishapur University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6499573,
+          31.2972282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Shahid Chamran University of Ahvaz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6586425,
+          31.3099803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Arak University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6404951,
+          34.0852636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Ardabil University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2881454,
+          38.1961735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Babol University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6777106,
+          36.5311668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Baqiyatallah Medical Sciences University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3943702,
+          35.7516618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Birjand University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2281979,
+          32.8577054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Bushehr University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8346914,
+          28.979314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Fasa University Of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.6321531,
+          28.9297524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Guilan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5508496,
+          37.1775016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Golestan University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.439996,
+          36.8427347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Gonbad Kavous University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1861248,
+          37.2628668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Hamedan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4875856,
+          34.7896372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Hormozgan University of Medical Sciences (Bandar Abbas)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2996509,
+          27.1816994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Iranian University of Medical Sciences (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4054251,
+          33.6365339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Esfahan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6615605,
+          32.6128181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Jahrom University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.612844,
+          28.5123947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Kashan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4057348,
+          34.0139965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Kerman University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1067196,
+          30.2436503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Kermanshah University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0984773,
+          34.344178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Kurdistan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0010744,
+          35.283775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Lorestan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4072034,
+          33.482904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Mashhad University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5370524,
+          36.2812564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Qazvin University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9899031,
+          36.2799731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Qom University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.890888,
+          34.6517686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Rafsanjan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9364562,
+          30.3668088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Shahid Beheshti University of Medical Sciences (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3979903,
+          35.800038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Shahrood University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9439774,
+          36.3994326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Shiraz University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4940903,
+          29.6459929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Semnan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4524019,
+          35.6102807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Tabriz University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3254218,
+          38.0560379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Tehran University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3941585,
+          35.7057678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Urmia University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0817435,
+          37.5388542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Yazd University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3398491,
+          31.8416721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "medical",
+        "university_name": "Zahedan University of Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8508228,
+          29.4479378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Institute for Research in Fundamental Science",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4700687,
+          35.8105942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "The Academy of Science of the Islamic Republic of Iran (Institute for Studies in Theoretical Physics and Mathematics – IPM)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4700933,
+          35.8105152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Iranian Nanotechnology Initiative Council",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3590316,
+          35.7117087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "The Physics Society of Iran",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3861054,
+          35.7346475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Institute for Advanced Studies in Basic Sciences (IASBS)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5060213,
+          36.7051413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Sharif University of Technology (SUT)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3516668,
+          35.7036229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Mohaghegh Ardabili University – Faculty of Science",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2960894,
+          38.2104913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Sahand University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1448905,
+          37.9283989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "The Chemistry and Chemical Engineering Institute of Iran (CCEII)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1646231,
+          35.7464403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Civil Aviation Technology College",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3268175,
+          35.693722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Institute of Geophysics – University of Tehran",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3850991,
+          35.7405527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Geological Survey of Iran",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3318418,
+          35.6965594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Institute of Biochemistry and Biophysics",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3962808,
+          35.7046554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Institute of International Energy Studies (Research Institute for Energy Management and Planning)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3979186,
+          35.7027925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Amirkabir University of Technology (Tehran Polytechnic)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4095795,
+          35.7031198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Iran University of Science and Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5048754,
+          35.7422367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Malek-e-ashtar University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5522211,
+          32.8811956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "K.N. Toosi University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4482954,
+          35.7407063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Shahid Beheshti University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3962586,
+          35.798917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Tehran",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3949104,
+          35.7040521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Ministry of Industries and Mines Institute for Training and Research",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.414218,
+          35.7047114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "International Institue of Earthquake Engineering and Seismology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.470109,
+          35.7962985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Tabriz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3294987,
+          38.0633862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Tabriz College of Technology (Central Technical & Vocational College)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2659037,
+          38.0432241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University of Tabriz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3885309,
+          38.0441686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Urmia University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.014704,
+          37.5019741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University of Urmia",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0592342,
+          37.5966924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Persian Gulf University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8215939,
+          28.908306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Shiraz University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4940193,
+          29.6458657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Shiraz University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5790917,
+          29.5815558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Shiraz University of Applied Science and Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5485465,
+          29.5969666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Gilan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5873702,
+          37.2627501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University of Rasht",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5775371,
+          37.2435214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University of Gorgan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4487248,
+          36.8633642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Hamedan University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4881837,
+          34.7860906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Isfahan University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5318891,
+          32.7191383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Isfahan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6600883,
+          32.6221185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Kermanshah University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0964599,
+          34.3251138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Ferdowsi University of Mashhad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5295795,
+          36.3100297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Petroleum University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6526614,
+          31.2270942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Qom University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8677886,
+          34.7071741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Shahrood University of Technology",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9403704,
+          36.3931591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Sistan and Baluchestan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8527449,
+          29.459234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Abadan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2345936,
+          30.3846786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Abhar",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2225789,
+          36.1940089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Ahvaz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6214343,
+          31.3008091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Aliabad Katul",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8946775,
+          36.9040944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Anar",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2495478,
+          30.8608534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Arak",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.803257,
+          34.0546347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Ardestan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3576634,
+          33.3630062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Arsanjan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3207682,
+          29.9268623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Astara",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8661296,
+          38.3981863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Babol",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7181013,
+          36.5247822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bafgh",
+        "additional_note": "Temporarily closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3355448,
+          27.2085792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Baft",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.579282,
+          29.2291226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bam",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3508923,
+          29.0687717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bandar",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3355914,
+          27.2086565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bardsir",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5765086,
+          29.9456924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Beh Shahr",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4678435,
+          36.6909424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Behbahan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.222214,
+          30.5802897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Birjand",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2347083,
+          32.8377206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bojnord",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3245331,
+          37.4540108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bonab",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0443502,
+          37.3677054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Bushehr",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8286496,
+          28.9788069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Darab",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5589325,
+          28.7632968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Dezful",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3770772,
+          32.4036098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Dolatabad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7134711,
+          32.8050071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Estahban",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0715997,
+          29.1250566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Falavarjan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4972135,
+          32.5492943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Farahan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6836359,
+          34.5187301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Fasa",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.6246587,
+          29.0598343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Firuzabad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5518973,
+          28.8195629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Gachsaran",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8262876,
+          30.3786813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Garmsar",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3195471,
+          35.2200815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Golpayegan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2734419,
+          33.4817993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Gonabad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6878795,
+          34.3685136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Hamedan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5601665,
+          34.8450111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Islamshahr",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2504099,
+          35.5562075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Jahrom",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5774796,
+          28.5125913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Kazeroon",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6021493,
+          29.6553001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Kerman",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0773228,
+          30.2415985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Kermanshah",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0269433,
+          34.2897681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Khash",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.2247869,
+          28.2071358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Khomain",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0686214,
+          33.6101892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Khomeinishahr",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.482147,
+          32.715849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Khorasgan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7847565,
+          32.6414205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Khoy",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9522851,
+          38.4903494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Lahijan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0100542,
+          37.189866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Lamerd",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1658192,
+          27.3388189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Larestan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2880021,
+          27.6561917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Mahabad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.74437,
+          36.7613001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Maragheh",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2054789,
+          37.3715657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Marand",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7740194,
+          38.4089346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Marvdasht",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8393138,
+          29.9151642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Miyandoab",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1277179,
+          36.9796597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Mobarakeh",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.493452,
+          32.355751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Myianeh",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7164393,
+          37.4293695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Naein",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9623507,
+          32.3369123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Najafabad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3925164,
+          32.6714221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Naragh",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8680734,
+          34.0226713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Neyriz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3242631,
+          29.2057436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Neyshabur",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8333691,
+          36.2517827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Mashhad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.572495,
+          36.3061445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Parsabad Mohan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9223131,
+          39.6427399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Qaen",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1685625,
+          33.7438009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Qazvin",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0331465,
+          36.3216008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Qom",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8064836,
+          34.5742263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Quchan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5368048,
+          37.0657354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Region One (Velayat)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5285856,
+          35.7992436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Roudehen",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9182359,
+          35.7233259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Sabzevar",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6874355,
+          36.2116316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Sanandaj",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0024564,
+          35.3417858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Sari",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0700709,
+          36.6483265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Saveh",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3003847,
+          35.0316869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Semnan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4530563,
+          35.6088589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Sepidan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.983749,
+          30.2678731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shabestar",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7082265,
+          38.1725386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shahr e Majlesi",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4932969,
+          32.3561188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shahr-E-Korrd",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9003616,
+          32.3514119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shahr-E-Ray",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3620948,
+          35.5585747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shahreza",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8248163,
+          31.9885853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shiraz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4819996,
+          29.7631477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Shirvan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9237445,
+          37.4086154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Sirjan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7120981,
+          29.420382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tabriz",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3884904,
+          38.0442231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tafresh",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9827658,
+          34.6976806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Takestan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6479061,
+          36.0268769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tehran Central (Enghelab)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4316426,
+          35.7015457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tehran Medical Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4330816,
+          35.7775394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tehran Science & Research Branch",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3173931,
+          35.785717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tehran South",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4192741,
+          35.713182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Tehran North Branch (TNB)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5735633,
+          35.7476677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Urmia",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0588253,
+          37.5967452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Varamin",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7413655,
+          35.3079329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Yasuj",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5571566,
+          30.7101022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Yazd",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3515056,
+          31.8394579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Zabol",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5447836,
+          31.0371188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Zahedan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8525378,
+          29.4545159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Islamic Azad University Zarand (Zarandiyeh)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5158758,
+          35.3036899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "Shiraz University of Applied Science & Technology ",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5793008,
+          29.5816377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Applied Science & Technology Qom",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8651011,
+          34.6657798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Applied Science & Technology Aranbidgol",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4821768,
+          34.0635067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Applied Science & Technology East Azerbaijan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2095692,
+          38.0623475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Applied Science & Technology Isfahan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5316729,
+          32.7187987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "science and engineering",
+        "university_name": "University of Applied Science & Technology Zanjan",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4796915,
+          36.6759518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Allame Tabataba’ee University (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2603363,
+          35.759498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Arak University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7115518,
+          34.1004438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Azad University (Tehran) (North Branch)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4745124,
+          35.7651951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Azad University (Mashhad)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.515963,
+          36.3579214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Azarbaijan Tarbiat Moallem University (Azarbaijan Shahid Madani University)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9467506,
+          37.812023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Alzahra University (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.392491,
+          35.7682913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Birjand University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.228193,
+          32.8576651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Bu-Ali Sina University (Hamadan)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4882907,
+          34.7922053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Ferdowsi University of Mashhad",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5295795,
+          36.3100297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Guilan University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6403486,
+          37.1938394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Imam Khomeini International University (Qazvin)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0072798,
+          36.3217333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Imam Sadiq University (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3836763,
+          35.7689796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Iran School of International Relations (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4569539,
+          35.8089967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "International University (Tehran)",
+        "additional_note": "Temporarily closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3955665,
+          35.7021204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Kashan University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4057484,
+          34.0141095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Kerman Khajeh-Nasir-Toosi Higher Education Center",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4064475,
+          35.7583124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Mofid University (Qom)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8464144,
+          34.6077933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Payam Noor University (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5028383,
+          35.8012912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Persian Gulf University (Bushehr)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8215695,
+          28.9084107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Razi University (Kermanshah)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1088877,
+          34.3879148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Semnan University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4344318,
+          35.603238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Shahrood University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9402482,
+          36.3930937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Shiraz University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4940266,
+          29.6458977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Sistan and Baluchestan University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8528287,
+          29.4592295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Shomal University (Amol)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3443848,
+          36.4026817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Tabriz University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3293601,
+          38.0633969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Tarbiat Modares University (Tehran)",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3840657,
+          35.7234731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Tehran International Studies & Research Institute",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3966614,
+          35.7076802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "University of Social Welfare Rehabilitation Sciences",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3979333,
+          35.8003954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "University of Qazvin",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9895117,
+          36.2799954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "University of Tehran",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3974289,
+          35.7057057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "University of Yazd",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3510375,
+          31.8394115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Urmia University",
+        "additional_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0819119,
+          37.5389366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university_type": "social sciences and humanities",
+        "university_name": "Zanjan University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5117201,
+          36.7029472
+        ]
+      }
+    }
+  ]
+}
